@@ -18,6 +18,14 @@ This this an anonymous repository that contains some supplementary materials abo
 
 Origianl images are from COCO dataset [1].
 
-[1] Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva Ramanan, Piotr Dollár, and
-428 C Lawrence Zitnick. Microsoft coco: Common objects in context. In European conference on computer
-429 vision, pages 740–755. Springer, 2014.
+[1] Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva Ramanan, Piotr Dollár, and C Lawrence Zitnick. Microsoft coco: Common objects in context. In European conference on computer vision, pages 740–755. Springer, 2014.
+
+### Black hair
+![black hair](https://user-images.githubusercontent.com/43455162/129591024-4f628df4-0583-4b4b-82c0-b70bf5a8ffc3.jpg)
+
+### Brown hair
+![brown hair](https://user-images.githubusercontent.com/43455162/129591048-46163b22-a643-43ea-86f3-bc9e892eb783.jpg)
+
+Original images are from CelebA dataset [2].
+
+[2] Ziwei Liu, Ping Luo, Xiaogang Wang, and Xiaoou Tang. Deep learning face attributes in the wild. In Proceedings of the IEEE international conference on computer vision, pages 3730–3738, 2015.
