@@ -8,7 +8,7 @@ We test our code with Spyder in Anaconda, Python 3.8, TensorFlow-gpu x2.0 on a W
 
 1. Synthetic Experiment
 
-Please directly run synthetic.py.
+- Please directly run synthetic.py.
 
 2. CIFAR-MTL
 
@@ -19,11 +19,6 @@ Please directly run synthetic.py.
 
 
 
-4. And another item.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
