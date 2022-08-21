@@ -12,9 +12,9 @@ We test our code with Spyder in Anaconda, Python 3.8, TensorFlow-gpu x2.0 on a W
 
 2. CIFAR-MTL
 
-1) Run generator_cifar10.py to generate CIFAR-MTL dataset we used in our paper.
-2) Run base_train.py to train and save the base model, which will be used in SRDML training.
-3) Run train.py to train SRDML.
+   - Run generator_cifar10.py to generate CIFAR-MTL dataset we used in our paper.
+   - Run base_train.py to train and save the base model, which will be used in SRDML training.
+   - Run train.py to train SRDML.
 
 
 
