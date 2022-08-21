@@ -8,13 +8,13 @@ We test our code with Spyder in Anaconda, Python 3.8, TensorFlow-gpu x2.0 on a W
 
 1. Synthetic Experiment
 
-   - Please directly run synthetic.py.
+   - Please directly run synthetic_train.py.
 
 2. CIFAR-MTL
 
    - Run generator_cifar10.py to generate CIFAR-MTL dataset we used in our paper.
-   - Run base_train.py to train and save the base model, which will be used in SRDML training.
-   - Run train.py to train SRDML.
+   - Run pretrain.py for the pre-training to get the pre-trained model.
+   - Run train.py.
 
 
 
