@@ -1,6 +1,6 @@
 # SRDML
 
-This is the code repository for "[Saliency-Regularized Deep Multi-Task Learning](https://arxiv.org/pdf/2207.01117)" (KDD 2022). 
+This is the code repository for "[Saliency-Regularized Deep Multi-Task Learning](https://dl.acm.org/doi/abs/10.1145/3534678.3539442)" (KDD 2022). 
 
 We provide the source code for experiments on both synthetic dataset and CIFAR-MTL.
 
