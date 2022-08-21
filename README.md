@@ -8,7 +8,7 @@ We test our code with Spyder in Anaconda, Python 3.8, TensorFlow-gpu x2.0 on a W
 
 1. Synthetic Experiment
 
-   - Please directly run synthetic_train.py.
+   - Run synthetic_train.py.
 
 2. CIFAR-MTL
 
