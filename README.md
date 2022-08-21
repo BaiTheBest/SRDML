@@ -16,9 +16,4 @@ We test our code with Spyder in Anaconda, Python 3.8, TensorFlow-gpu x2.0 on a W
    - Run pretrain.py for the pre-training to get the pre-trained model.
    - Run train.py.
 
-
-
-
-
-
-
+For experiments on any other datasets, one can modify the data input pipeline to fit any given dataset.
