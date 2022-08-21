@@ -1,3 +1,15 @@
 # SRDML
 
-This is the code repository for "*Saliency-Regularized Deep Multi-Task Learning*" (KDD 2022). Will be coming soon!
+This is the code repository for "[Saliency-Regularized Deep Multi-Task Learning](https://arxiv.org/pdf/2207.01117)" (KDD 2022). 
+
+We provide the source code for experiments on both synthetic dataset and CIFAR-MTL.
+
+We test our code with Spyder in Anaconda, Python 3.8, TensorFlow-gpu x2.0 on a Windows machine.
+
+1. Synthetic Experiment
+Please directly run synthetic.py.
+
+2. CIFAR-MTL
+1) Run generator_cifar10.py to generate CIFAR-MTL dataset we used in our paper.
+2) Run base_train.py to train and save the base model, which will be used in SRDML training.
+3) Run train.py to train SRDML.
