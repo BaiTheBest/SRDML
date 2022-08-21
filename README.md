@@ -18,10 +18,14 @@ We test our code with Spyder in Anaconda, Python 3.8, TensorFlow-gpu x2.0 on a W
 
 For experiments on any other datasets, one can modify the data input pipeline to fit any given dataset.
 
-@inproceedings{bai2022saliency,
-  title={Saliency-Regularized Deep Multi-Task Learning},
-  author={Bai, Guangji and Zhao, Liang},
-  booktitle={Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
-  pages={15--25},
-  year={2022}
-}
+
+If you find this code useful in your research, please consider citing:
+
+    @inproceedings{bai2022saliency,
+    title={Saliency-Regularized Deep Multi-Task Learning},
+    author={Bai, Guangji and Zhao, Liang},
+    booktitle={Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+    pages={15--25},
+    year={2022}
+    }
+
