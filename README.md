@@ -20,6 +20,7 @@ We test our code with Spyder in Anaconda, Python 3.8, TensorFlow-gpu x2.0 on a W
 
 For experiments on any other datasets, one can modify the data input pipeline to fit any given dataset.
 
+Our [KDD poster](https://github.com/BaiTheBest/SRDML/blob/main/SRDML%20poster.pdf) is also available.
 
 If you find this code useful in your research, please consider citing:
 
@@ -30,5 +31,3 @@ If you find this code useful in your research, please consider citing:
         pages={15--25},
         year={2022}
     }
-
-Our [KDD poster](https://github.com/BaiTheBest/SRDML/blob/main/SRDML%20poster.pdf) is also available.
