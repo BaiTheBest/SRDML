@@ -2,7 +2,7 @@
 
 This is the code repository for "[Saliency-Regularized Deep Multi-Task Learning](https://dl.acm.org/doi/abs/10.1145/3534678.3539442)" (KDD 2022, Research Track) by Guangji Bai and Liang Zhao.  
 
-<img src="https://user-images.githubusercontent.com/43455162/186446503-4fadfd80-22c0-426f-a796-723bbb785059.PNG" width="800" height="300">
+<img src="https://user-images.githubusercontent.com/43455162/186446503-4fadfd80-22c0-426f-a796-723bbb785059.PNG" width="700" height="300">
 
 We provide the source code for experiments on both synthetic dataset and CIFAR-MTL.
 
