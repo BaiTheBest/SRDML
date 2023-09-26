@@ -1,10 +1,10 @@
 # SRDML
 
-This is the code repository for "[Saliency-Regularized Deep Multi-Task Learning](https://dl.acm.org/doi/abs/10.1145/3534678.3539442)" (KDD 2022, Research Track) by Guangji Bai and Liang Zhao.  
+This is the code repository for "[Saliency-Regularized Deep Multi-Task Learning](https://dl.acm.org/doi/abs/10.1145/3534678.3539442)" (KDD 2022, Research Track).  
 
 <img src="https://user-images.githubusercontent.com/43455162/186446503-4fadfd80-22c0-426f-a796-723bbb785059.PNG" width="600" height="235">
 
-We provide the source code for experiments on both synthetic dataset and CIFAR-MTL.
+We provide the source code for experiments on both synthetic datasets and CIFAR-MTL.
 
 We test our code with Spyder in Anaconda, Python 3.8, TensorFlow-gpu x2.0 on a Windows machine.
 
